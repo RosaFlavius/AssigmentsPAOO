@@ -1,0 +1,55 @@
+The system is: Linux - 4.4.0-19041-Microsoft - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_11164/fast && /usr/bin/make -f CMakeFiles/cmTC_11164.dir/build.make CMakeFiles/cmTC_11164.dir/build
+make[1]: Entering directory '/mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_11164.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_11164.dir/testCCompiler.c.o   -c /mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_11164
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_11164.dir/link.txt --verbose=1
+/usr/bin/gcc      -rdynamic CMakeFiles/cmTC_11164.dir/testCCompiler.c.o  -o cmTC_11164 
+make[1]: Leaving directory '/mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_66cf7/fast && /usr/bin/make -f CMakeFiles/cmTC_66cf7.dir/build.make CMakeFiles/cmTC_66cf7.dir/build
+make[1]: Entering directory '/mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_66cf7.dir/testCXXCompiler.cxx.o
+/usr/bin/g++     -o CMakeFiles/cmTC_66cf7.dir/testCXXCompiler.cxx.o -c /mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_66cf7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_66cf7.dir/link.txt --verbose=1
+/usr/bin/g++       -rdynamic CMakeFiles/cmTC_66cf7.dir/testCXXCompiler.cxx.o  -o cmTC_66cf7 
+make[1]: Leaving directory '/mnt/d/FACULTA/AN4SEMESTRU1/PAOO/tema1/build/CMakeFiles/CMakeTmp'
+
+
+
