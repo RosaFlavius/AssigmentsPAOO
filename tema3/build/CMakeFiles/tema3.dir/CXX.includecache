@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/FACULTA/An4SEMESTRU1/AssigmentsPAOO/tema3/main.cpp
+iostream
+-
+memory
+-
+string
+-
+
